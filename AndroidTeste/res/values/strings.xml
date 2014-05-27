@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">AndroidTeste</string>
-    <string name="hello_world">Oi mundo!</string>
+    <string name="hello_world">Olá mundo!</string>
     <string name="action_settings">Settings</string>
     
 
